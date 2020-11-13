@@ -1,10 +1,11 @@
 import React from 'react';
+import { Div, H1} from "./components/tags.enhanced";
 
 
 const App = () => {
-  return <div>
-    <h1>Enhanced React Components</h1>
-  </div>
+  return <Div style={{padding: 16}}>
+    <H1>Welcome to Enhanced React Components</H1>
+  </Div>
 }
 
 export default App;
