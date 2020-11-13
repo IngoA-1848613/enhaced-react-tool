@@ -1,2 +1,2 @@
-# enhanced-react-tool
-A tool that helps you develop enhanced React components.
+# enhanced-react
+A set of enhanced React components.
